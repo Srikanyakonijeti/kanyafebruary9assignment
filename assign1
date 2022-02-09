@@ -1,0 +1,7 @@
+#write program to greatest of two number
+a=int(input('enter a')) 
+b=int(input('enter b')) 
+if a>b: 
+    print('greatest number is',a) 
+else: 
+    print('greatest number is',b) 
